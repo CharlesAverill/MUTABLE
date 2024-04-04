@@ -1,4 +1,4 @@
 (executable
- (public_name _PROJECT_NAME_)
+ (public_name MUTABLE)
  (name main)
- (libraries _PROJECT_NAME_))
+ (libraries MUTABLE))
